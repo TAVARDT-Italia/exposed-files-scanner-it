@@ -1,14 +1,13 @@
 # Scanner di File e Credenziali Esposte | TAVARDT Italia
 
 [![Scansione File Esposti](https://img.shields.io/badge/TAVARDT-Superficie%20Attacco-5b3cf5.svg)](https://tools.tavardt.com/it/scansione-file-esposti/)
-[![Giurisdizione](https://img.shields.io/badge/Giurisdizione-Italia-00C853.svg)](https://ag.tavardt.com/it/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Scanner di superficie di attacco per il rilevamento automatizzato di file di ambiente, backup di database, repository git e credenziali esposte.
 
-Sviluppato e gestito dalla divisione di sicurezza offensiva di **[TAVARDT Italia](https://ag.tavardt.com/it/)**.
+Sviluppato e gestito dalla divisione di sicurezza offensiva di **TAVARDT Italia**.
 
----
+***
 
 ## Ambito di Rilevamento della Superficie
 
@@ -18,7 +17,7 @@ Sviluppato e gestito dalla divisione di sicurezza offensiva di **[TAVARDT Italia
 * **Infrastruttura e Configurazione**: Verifica di `docker-compose.yml` ed esposizione di informazioni in `phpinfo.php`.
 * **Conformita Normativa**: Allineato alle indicazioni del Linee Guida di Sicurezza ACN, AgID e Garante Privacy.
 
----
+***
 
 ## Installazione e Utilizzo
 
@@ -33,20 +32,20 @@ python scanner.py azienda.it
 Per ottenere l output strutturato in formato JSON:
 
 ```bash
-python scanner.py azienda.it --json
+python scanner.py azienda.it -json
 ```
 
----
+***
 
 ## Diagnosi Online su Web
 
 Per verifiche periodiche e analisi avanzate su interfaccia grafica, consultare lo strumento ufficiale:
 
-* **[Scansione File Esposti](https://tools.tavardt.com/it/scansione-file-esposti/)**
+* **Scansione File Esposti**
 * **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
 
----
+***
 
 ## Consulenza in Sicurezza Informatica
 
-Per penetration test e hardening del perimetro aziendale in Italia, contattare gli specialisti di **[TAVARDT Italia](https://ag.tavardt.com/it/contatti/)**.
+Per penetration test e hardening del perimetro aziendale in Italia, contattare gli specialisti di **TAVARDT Italia**.
