@@ -1,4 +1,4 @@
-# Scanner di File e Credenziali Esposte | TAVARDT Italia
+# Scanner di File e Credenziali Esposte
 
 [![Scansione File Esposti](https://img.shields.io/badge/TAVARDT-Superficie%20Attacco-5b3cf5.svg)](https://tools.tavardt.com/it/scansione-file-esposti/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Per verifiche periodiche e analisi avanzate su interfaccia grafica, consultare l
 ## Consulenza in Sicurezza Informatica
 
 Per penetration test e hardening del perimetro aziendale in Italia, contattare gli specialisti di **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
