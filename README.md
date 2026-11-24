@@ -5,7 +5,7 @@
 
 Scanner di superficie di attacco per il rilevamento automatizzato di file di ambiente, backup di database, repository git e credenziali esposte.
 
-Sviluppato e gestito dalla divisione di sicurezza offensiva di **TAVARDT Italia**.
+Sviluppato e gestito dalla divisione di sicurezza offensiva di **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python scanner.py azienda.it -json
 Per verifiche periodiche e analisi avanzate su interfaccia grafica, consultare lo strumento ufficiale:
 
 * **Scansione File Esposti**
-* **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
+* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
 
 ***
 
 ## Consulenza in Sicurezza Informatica
 
-Per penetration test e hardening del perimetro aziendale in Italia, contattare gli specialisti di **TAVARDT Italia**.
+Per penetration test e hardening del perimetro aziendale in Italia, contattare gli specialisti di **TAVARDT**.
 
 ***
 
