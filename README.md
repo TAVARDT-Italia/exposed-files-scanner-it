@@ -1,12 +1,10 @@
 # Scanner di File e Credenziali Esposte
 
-[![Licenza: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Scansione File Esposti](https://img.shields.io/badge/TAVARDT-Superficie%20Attacco-5b3cf5.svg)](https://tools.tavardt.com/it/scansione-file-esposti/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Scanner di superficie di attacco per il rilevamento automatizzato di file di ambiente, backup di database, repository git e credenziali esposte.
-
-Sviluppato e gestito dalla divisione di sicurezza offensiva di **TAVARDT**.
 
 ***
 
@@ -38,15 +36,6 @@ python scanner.py azienda.it -json
 
 ***
 
-## Diagnosi Online su Web
-
-Per verifiche periodiche e analisi avanzate su interfaccia grafica, consultare lo strumento ufficiale:
-
-* **Scansione File Esposti**
-* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
-
-***
-
 ## Consulenza in Sicurezza Informatica
 
 Per penetration test e hardening del perimetro aziendale in Italia, contattare gli specialisti di **TAVARDT**.
@@ -62,7 +51,7 @@ Per penetration test e hardening del perimetro aziendale in Italia, contattare g
 ***
 
 ### Licenza
-Rilasciato sotto licenza MIT. Per maggiori dettagli, consultare il file [LICENSE](LICENSE).
+Rilasciato sotto licenza MIT.
 
 ***
 
