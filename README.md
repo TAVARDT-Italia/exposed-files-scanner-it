@@ -1,5 +1,6 @@
 # Scanner di File e Credenziali Esposte
 
+[![Licenza: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Scansione File Esposti](https://img.shields.io/badge/TAVARDT-Superficie%20Attacco-5b3cf5.svg)](https://tools.tavardt.com/it/scansione-file-esposti/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
@@ -57,6 +58,11 @@ Per penetration test e hardening del perimetro aziendale in Italia, contattare g
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Rilasciato sotto licenza MIT. Per maggiori dettagli, consultare il file [LICENSE](LICENSE).
 
 ***
 
